@@ -12,6 +12,11 @@ using UnityEditor.Build.Reporting;
 public class JenkinsBuild {
   
     static string[] EnabledScenes = FindEnabledEditorScenes();
+
+    // examepl command line: "C:\Program Files\Unity\Hub\Editor\2019.4.0f1\Editor\Unity.exe" -quit -batchmode -projectPath "C:\Users\SirHieppi\Documents\GitHub\ISS-Locator\ISS-Locator" -executeMethod JenkinsBuild.BuildAndroid
+    static void PerformSimpleBuild() {
+      BuildPipeline.BuildPlayer(EnabledScenes, "~/Desktop", BuildTarget.Android, BuildOptions.None);
+    }
   
     // ------------------------------------------------------------------------
     // called from Jenkins
