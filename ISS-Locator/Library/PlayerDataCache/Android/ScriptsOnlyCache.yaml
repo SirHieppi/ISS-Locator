@@ -91,77 +91,77 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11218}
     - Class: 114
-      Script: {instanceID: 11238}
+      Script: {instanceID: 11240}
     - Class: 114
-      Script: {instanceID: 11308}
+      Script: {instanceID: 11310}
     - Class: 114
-      Script: {instanceID: 11374}
+      Script: {instanceID: 11376}
     - Class: 114
-      Script: {instanceID: 11498}
+      Script: {instanceID: 11502}
     - Class: 114
-      Script: {instanceID: 11504}
+      Script: {instanceID: 11508}
     - Class: 114
-      Script: {instanceID: 11552}
+      Script: {instanceID: 11556}
     - Class: 114
-      Script: {instanceID: 11684}
+      Script: {instanceID: 11688}
     - Class: 114
-      Script: {instanceID: 11908}
+      Script: {instanceID: 11912}
     - Class: 114
-      Script: {instanceID: 11952}
+      Script: {instanceID: 11956}
     - Class: 114
-      Script: {instanceID: 11984}
+      Script: {instanceID: 11988}
     - Class: 114
-      Script: {instanceID: 12002}
+      Script: {instanceID: 12006}
     - Class: 114
-      Script: {instanceID: 12066}
+      Script: {instanceID: 12070}
     - Class: 114
-      Script: {instanceID: 12106}
+      Script: {instanceID: 12110}
     - Class: 114
-      Script: {instanceID: 12286}
+      Script: {instanceID: 12290}
     - Class: 114
-      Script: {instanceID: 12362}
+      Script: {instanceID: 12366}
     - Class: 114
-      Script: {instanceID: 12390}
+      Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12478}
+      Script: {instanceID: 12482}
     - Class: 114
-      Script: {instanceID: 12614}
+      Script: {instanceID: 12618}
     - Class: 114
-      Script: {instanceID: 12654}
+      Script: {instanceID: 12658}
     - Class: 114
-      Script: {instanceID: 12746}
+      Script: {instanceID: 12750}
     - Class: 114
-      Script: {instanceID: 12850}
+      Script: {instanceID: 12854}
     - Class: 114
-      Script: {instanceID: 12876}
+      Script: {instanceID: 12880}
     - Class: 114
-      Script: {instanceID: 12908}
+      Script: {instanceID: 12912}
     - Class: 114
-      Script: {instanceID: 12926}
+      Script: {instanceID: 12930}
     - Class: 114
-      Script: {instanceID: 12940}
+      Script: {instanceID: 12944}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 13034}
     - Class: 114
-      Script: {instanceID: 13178}
-    - Class: 114
-      Script: {instanceID: 13262}
+      Script: {instanceID: 13182}
     - Class: 114
       Script: {instanceID: 13266}
     - Class: 114
-      Script: {instanceID: 13368}
+      Script: {instanceID: 13270}
     - Class: 114
-      Script: {instanceID: 13414}
+      Script: {instanceID: 13372}
     - Class: 114
-      Script: {instanceID: 13422}
+      Script: {instanceID: 13418}
     - Class: 114
-      Script: {instanceID: 13482}
+      Script: {instanceID: 13426}
     - Class: 114
-      Script: {instanceID: 13768}
+      Script: {instanceID: 13486}
     - Class: 114
-      Script: {instanceID: 13786}
+      Script: {instanceID: 13772}
     - Class: 114
-      Script: {instanceID: 13822}
+      Script: {instanceID: 13790}
+    - Class: 114
+      Script: {instanceID: 13826}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -970,4 +970,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/LocateISS.unity
-  playerPath: C:/Users/SirHieppi/Documents/ISS Locator ARCore (1)/APK Exports/PlaneAndAnchorTest.apk
+  playerPath: C:/Users/SirHieppi/Documents/GitHub/ISS-Locator/ISS-Locator/./builds/game.x86_64
